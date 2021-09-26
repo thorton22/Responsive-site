@@ -16,3 +16,8 @@
 - `git commit -m "commit message"`
 - `git push`
 - `git pull` 
+
+---
+Useful Links:
+- [I need the answer](https://www.google.com)
+- Markdown.com
