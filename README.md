@@ -1,3 +1,3 @@
 # Site: Responsive-site
 
-### Hello World gary
+### Hello World Gary
